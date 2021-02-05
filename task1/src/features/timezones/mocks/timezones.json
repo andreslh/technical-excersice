@@ -1,0 +1,426 @@
+{
+  "status": "OK",
+  "message": "",
+  "zones": [
+    {
+      "countryCode": "AD",
+      "countryName": "Andorra",
+      "zoneName": "Europe/Andorra",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "AL",
+      "countryName": "Albania",
+      "zoneName": "Europe/Tirane",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "AT",
+      "countryName": "Austria",
+      "zoneName": "Europe/Vienna",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "AX",
+      "countryName": "Aland Islands",
+      "zoneName": "Europe/Mariehamn",
+      "gmtOffset": 7200,
+      "timestamp": 1612538453
+    },
+    {
+      "countryCode": "BA",
+      "countryName": "Bosnia and Herzegovina",
+      "zoneName": "Europe/Sarajevo",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "BE",
+      "countryName": "Belgium",
+      "zoneName": "Europe/Brussels",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "BG",
+      "countryName": "Bulgaria",
+      "zoneName": "Europe/Sofia",
+      "gmtOffset": 7200,
+      "timestamp": 1612538453
+    },
+    {
+      "countryCode": "BY",
+      "countryName": "Belarus",
+      "zoneName": "Europe/Minsk",
+      "gmtOffset": 10800,
+      "timestamp": 1612542053
+    },
+    {
+      "countryCode": "CH",
+      "countryName": "Switzerland",
+      "zoneName": "Europe/Zurich",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "CZ",
+      "countryName": "Czech Republic",
+      "zoneName": "Europe/Prague",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "DE",
+      "countryName": "Germany",
+      "zoneName": "Europe/Berlin",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "DE",
+      "countryName": "Germany",
+      "zoneName": "Europe/Busingen",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "DK",
+      "countryName": "Denmark",
+      "zoneName": "Europe/Copenhagen",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "EE",
+      "countryName": "Estonia",
+      "zoneName": "Europe/Tallinn",
+      "gmtOffset": 7200,
+      "timestamp": 1612538453
+    },
+    {
+      "countryCode": "ES",
+      "countryName": "Spain",
+      "zoneName": "Europe/Madrid",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "FI",
+      "countryName": "Finland",
+      "zoneName": "Europe/Helsinki",
+      "gmtOffset": 7200,
+      "timestamp": 1612538453
+    },
+    {
+      "countryCode": "FR",
+      "countryName": "France",
+      "zoneName": "Europe/Paris",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "GB",
+      "countryName": "United Kingdom",
+      "zoneName": "Europe/London",
+      "gmtOffset": 0,
+      "timestamp": 1612531253
+    },
+    {
+      "countryCode": "GG",
+      "countryName": "Guernsey",
+      "zoneName": "Europe/Guernsey",
+      "gmtOffset": 0,
+      "timestamp": 1612531253
+    },
+    {
+      "countryCode": "GI",
+      "countryName": "Gibraltar",
+      "zoneName": "Europe/Gibraltar",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "GR",
+      "countryName": "Greece",
+      "zoneName": "Europe/Athens",
+      "gmtOffset": 7200,
+      "timestamp": 1612538453
+    },
+    {
+      "countryCode": "HR",
+      "countryName": "Croatia",
+      "zoneName": "Europe/Zagreb",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "HU",
+      "countryName": "Hungary",
+      "zoneName": "Europe/Budapest",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "IE",
+      "countryName": "Ireland",
+      "zoneName": "Europe/Dublin",
+      "gmtOffset": 0,
+      "timestamp": 1612531253
+    },
+    {
+      "countryCode": "IM",
+      "countryName": "Isle of Man",
+      "zoneName": "Europe/Isle_of_Man",
+      "gmtOffset": 0,
+      "timestamp": 1612531253
+    },
+    {
+      "countryCode": "IT",
+      "countryName": "Italy",
+      "zoneName": "Europe/Rome",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "JE",
+      "countryName": "Jersey",
+      "zoneName": "Europe/Jersey",
+      "gmtOffset": 0,
+      "timestamp": 1612531253
+    },
+    {
+      "countryCode": "LI",
+      "countryName": "Liechtenstein",
+      "zoneName": "Europe/Vaduz",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "LT",
+      "countryName": "Lithuania",
+      "zoneName": "Europe/Vilnius",
+      "gmtOffset": 7200,
+      "timestamp": 1612538453
+    },
+    {
+      "countryCode": "LU",
+      "countryName": "Luxembourg",
+      "zoneName": "Europe/Luxembourg",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "LV",
+      "countryName": "Latvia",
+      "zoneName": "Europe/Riga",
+      "gmtOffset": 7200,
+      "timestamp": 1612538453
+    },
+    {
+      "countryCode": "MC",
+      "countryName": "Monaco",
+      "zoneName": "Europe/Monaco",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "MD",
+      "countryName": "Moldova",
+      "zoneName": "Europe/Chisinau",
+      "gmtOffset": 7200,
+      "timestamp": 1612538453
+    },
+    {
+      "countryCode": "ME",
+      "countryName": "Montenegro",
+      "zoneName": "Europe/Podgorica",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "MK",
+      "countryName": "Macedonia",
+      "zoneName": "Europe/Skopje",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "MT",
+      "countryName": "Malta",
+      "zoneName": "Europe/Malta",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "NL",
+      "countryName": "Netherlands",
+      "zoneName": "Europe/Amsterdam",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "NO",
+      "countryName": "Norway",
+      "zoneName": "Europe/Oslo",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "PL",
+      "countryName": "Poland",
+      "zoneName": "Europe/Warsaw",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "PT",
+      "countryName": "Portugal",
+      "zoneName": "Europe/Lisbon",
+      "gmtOffset": 0,
+      "timestamp": 1612531253
+    },
+    {
+      "countryCode": "RO",
+      "countryName": "Romania",
+      "zoneName": "Europe/Bucharest",
+      "gmtOffset": 7200,
+      "timestamp": 1612538453
+    },
+    {
+      "countryCode": "RS",
+      "countryName": "Serbia",
+      "zoneName": "Europe/Belgrade",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "RU",
+      "countryName": "Russia",
+      "zoneName": "Europe/Astrakhan",
+      "gmtOffset": 14400,
+      "timestamp": 1612545653
+    },
+    {
+      "countryCode": "RU",
+      "countryName": "Russia",
+      "zoneName": "Europe/Kaliningrad",
+      "gmtOffset": 7200,
+      "timestamp": 1612538453
+    },
+    {
+      "countryCode": "RU",
+      "countryName": "Russia",
+      "zoneName": "Europe/Kirov",
+      "gmtOffset": 10800,
+      "timestamp": 1612542053
+    },
+    {
+      "countryCode": "RU",
+      "countryName": "Russia",
+      "zoneName": "Europe/Moscow",
+      "gmtOffset": 10800,
+      "timestamp": 1612542053
+    },
+    {
+      "countryCode": "RU",
+      "countryName": "Russia",
+      "zoneName": "Europe/Samara",
+      "gmtOffset": 14400,
+      "timestamp": 1612545653
+    },
+    {
+      "countryCode": "RU",
+      "countryName": "Russia",
+      "zoneName": "Europe/Saratov",
+      "gmtOffset": 14400,
+      "timestamp": 1612545653
+    },
+    {
+      "countryCode": "RU",
+      "countryName": "Russia",
+      "zoneName": "Europe/Ulyanovsk",
+      "gmtOffset": 14400,
+      "timestamp": 1612545653
+    },
+    {
+      "countryCode": "RU",
+      "countryName": "Russia",
+      "zoneName": "Europe/Volgograd",
+      "gmtOffset": 14400,
+      "timestamp": 1612545653
+    },
+    {
+      "countryCode": "SE",
+      "countryName": "Sweden",
+      "zoneName": "Europe/Stockholm",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "SI",
+      "countryName": "Slovenia",
+      "zoneName": "Europe/Ljubljana",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "SK",
+      "countryName": "Slovakia",
+      "zoneName": "Europe/Bratislava",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "SM",
+      "countryName": "San Marino",
+      "zoneName": "Europe/San_Marino",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    },
+    {
+      "countryCode": "TR",
+      "countryName": "Turkey",
+      "zoneName": "Europe/Istanbul",
+      "gmtOffset": 10800,
+      "timestamp": 1612542053
+    },
+    {
+      "countryCode": "UA",
+      "countryName": "Ukraine",
+      "zoneName": "Europe/Kiev",
+      "gmtOffset": 7200,
+      "timestamp": 1612538453
+    },
+    {
+      "countryCode": "UA",
+      "countryName": "Ukraine",
+      "zoneName": "Europe/Simferopol",
+      "gmtOffset": 10800,
+      "timestamp": 1612542053
+    },
+    {
+      "countryCode": "UA",
+      "countryName": "Ukraine",
+      "zoneName": "Europe/Uzhgorod",
+      "gmtOffset": 7200,
+      "timestamp": 1612538453
+    },
+    {
+      "countryCode": "UA",
+      "countryName": "Ukraine",
+      "zoneName": "Europe/Zaporozhye",
+      "gmtOffset": 7200,
+      "timestamp": 1612538453
+    },
+    {
+      "countryCode": "VA",
+      "countryName": "Vatican",
+      "zoneName": "Europe/Vatican",
+      "gmtOffset": 3600,
+      "timestamp": 1612534853
+    }
+  ]
+}

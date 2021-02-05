@@ -1,0 +1,15 @@
+{
+  "status": "OK",
+  "message": "",
+  "countryCode": "AD",
+  "countryName": "Andorra",
+  "zoneName": "Europe/Andorra",
+  "abbreviation": "CET",
+  "gmtOffset": 3600,
+  "dst": "0",
+  "dstStart": 1603587600,
+  "dstEnd": 1616893199,
+  "nextAbbreviation": "CEST",
+  "timestamp": 1612535357,
+  "formatted": "2021-02-05 14:29:17"
+}
