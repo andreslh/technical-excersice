@@ -10,10 +10,10 @@ const StyledCardBottom = styled.div`
   padding-bottom: 18px;
 `;
 
-function CardBottom() {
+function CardBottom({ withAdditional }) {
   return (
     <StyledCardBottom>
-      <CardDetails />
+      <CardDetails withAdditional={withAdditional} />
       <CardFullDetails />
     </StyledCardBottom>
   );

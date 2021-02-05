@@ -12,14 +12,14 @@ const StyledCard = styled.div`
   border-top: 1px solid #252525;
   border-bottom: 1px solid #252525;
   background-color: #fff;
-  font-family: Arial;
+  font-family: Verdana, sans-serif;
 `;
 
 function Card() {
   return (
     <StyledCard>
       <CardTop />
-      <CardBottom />
+      <CardBottom withAdditional={false} />
     </StyledCard>
   );
 }

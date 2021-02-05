@@ -1,6 +1,8 @@
 import React from 'react';
 
 import styled from 'styled-components';
+import Download from '../Icons/Download';
+import Print from '../Icons/Print';
 
 const StyledCardControls = styled.div`
   display: flex;
@@ -50,9 +52,41 @@ const ButtonTertiary = styled(Button)`
   }
 `;
 
+const IconsWrapper = styled.div`
+  display: flex;
+  height: 40px;
+  padding-left: 20px;
+  align-items: center;
+
+  div {
+    display: flex;
+    height: 30px;
+    align-items: center;
+    cursor: pointer;
+  }
+
+  div:first-of-type {
+    border-right: 1px solid #767676;
+  }
+
+  svg {
+    padding: 0 20px;
+  }
+`;
+
+const Icon = styled.div``;
+
 function CardControls() {
   return (
     <StyledCardControls>
+      <IconsWrapper>
+        <Icon>
+          <Download width={18} height={18} fill={'#252525'} />
+        </Icon>
+        <Icon>
+          <Print width={18} height={18} fill={'#252525'} />
+        </Icon>
+      </IconsWrapper>
       <ButtonsWrapper>
         <ButtonTertiary>Reject</ButtonTertiary>
         <ButtonSecondary>Authorise</ButtonSecondary>
